@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.container__userList {
+  display: flex;
+  flex-direction: column;
+}
